@@ -1,7 +1,7 @@
 <?php include("header.php"); ?>
 <title>GoClean</title>
 <link rel="stylesheet" href="css/index.css">
-<!-- <link rel="stylesheet" href="css/footer2.css"> -->
+<link rel="stylesheet" href="css/footer2.css">
 <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.css" />
 <script src="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.js"></script>
 </head>
@@ -170,4 +170,4 @@
       <br><br>
     </div>
   </div>
-  <?php include('footer.php') ?>
+  <?php include('footer2.php') ?>
