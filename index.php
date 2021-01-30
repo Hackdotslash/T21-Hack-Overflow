@@ -135,7 +135,7 @@
 
   <div class="recent">
     <br>
-    <h3 style="text-align:center; font-weight:bold"> Greeny News </h3>
+    <h3 style="text-align:center; font-weight:bold"> Cleany News </h3>
     <div class="row innerbox">
       <div class="col-md-8">
         <div class="scrollbox shadow-lg p-3 mb-5 rounded ">
