@@ -80,9 +80,7 @@
       <div class="modal-body">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span> </button>
-        <p>A Platform for Action World Environment Day is the UN's most important day for encouraging worldwide awareness and action for the protection of our environment. Since it began in 1974, it has grown to become a global platform for public outreach that is widely celebrated in over 100 countries.
-
-</p><p>The People's Day Above all, World Environment Day is the "people's day" for doing something to take care of the Earth. That "something" can be focused locally, nationally or globally; it can be a solo action or involve a crowd. Everyone is free to choose.</p>
+        People's day</p>
       </div>
     </div>
   </div>
@@ -124,7 +122,6 @@ $(document).ready(function () {
 
     var viewportScrollDistance = 0;
 
-
     viewportScrollDistance = status.offset.y;
     var viewportHeight = $content.height();
     var listHeight = 0;
@@ -132,9 +129,8 @@ $(document).ready(function () {
     for (var i = 0; i < $listItems.length; i++) {
       listHeight += $($listItems[i]).height();
     }
-
     var top = status.offset.y;
-    // console.log(top);
+
     var visibleCenterVertical = 0;
     visibleCenterVertical = top;
 
