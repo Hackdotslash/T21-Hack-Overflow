@@ -9,4 +9,4 @@ GoClean is a platform that aims at bringing together individuals to mitigate cli
 ### Team : Hack Overflow
 * Aman Tibrewal
 * Harshit Gangwar
-  Ayush Srivastav
+* Ayush Srivastav
