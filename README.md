@@ -25,4 +25,4 @@ It is really high time we realise the urgency to act towards saving our nature. 
 ### Team : Hack Overflow
 * Aman Tibrewal
 * Harshit Gangwar
-* Ayush Srivastav
+* Ayush Srivastava
