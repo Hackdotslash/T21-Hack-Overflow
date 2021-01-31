@@ -1,5 +1,5 @@
 <?php include("header.php"); ?>
-<title>GoGreen</title>
+<title>GoClean</title>
 <link rel="stylesheet" href="css/issues.css">
 <link rel="stylesheet" href="css/footer2.css">
 </head>
@@ -378,7 +378,6 @@
   <?php } ?>
 
   <script type="text/javascript">
-    // TODO: modal
     $('#solve').on('show.bs.modal', function(event) {
       var button = $(event.relatedTarget)
       var siid = button.data('siid')
