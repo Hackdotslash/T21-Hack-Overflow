@@ -1,6 +1,8 @@
 # GoClean
 GoClean is a platform that aims at bringing together individuals to mitigate climate change and global warming. We aim to achieve our target through various features that we have integrated into our website.
 
+### Video [Link](https://drive.google.com/file/d/1v-q_0uLLHp27YGrlW1wZQJIFSYw4DnVf/view?usp=sharing)
+
 ### How to host and manage Events?
 This is the section where individuals get to know about different ongoing events and also host one if they are interested and can witness their small efforts solving gargantuan real world problems.
 
