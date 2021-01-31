@@ -11,7 +11,7 @@ Users will be using this feature to raise any issue that they face in their surr
 Challenges will help us develop a habit, a habit to protect our environment, which will include planting a certain number of trees/plants for a given period of time, participating in public events, challenge to clean a place which got attention of curse only. They not only contribute to the environment but also etch the sense of satisfaction and happiness within us.
 
 ### Our GoClean box
-Today’s irony is that money leads to destruction and the same money helps in conservation and preservation. GoGreen box aims to raise funds with individuals who want to participate in this campaign. This fund will help to increase the use of renewable energy and run out different events effectively.
+Today’s irony is that money leads to destruction and the same money helps in conservation and preservation. GoClean box aims to raise funds with individuals who want to participate in this campaign. This fund will help to increase the use of renewable energy and run out different events effectively.
 
 ### Taking care of the air we breathe
 This platform gives all the details you should know about the oxygen you are breathing, and, not even realising how harmful it is. It is also an idea to realise everyone that we all are responsible for this and instantly act towards it.
