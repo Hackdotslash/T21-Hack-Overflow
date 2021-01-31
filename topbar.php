@@ -46,7 +46,7 @@
 
 
   <!-- Modal -->
-  <div class="modal" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <!-- <div class="modal" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered" role="document">
       <div class="modal-content">
         <div class="modal-body">
@@ -63,9 +63,9 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
 
-  <div class="modal" id="exampleModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <!-- <div class="modal" id="exampleModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered" role="document">
       <div class="modal-content">
         <div class="modal-body">
@@ -82,7 +82,7 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
 
 </div>
 <?php ob_end_flush(); ?>
