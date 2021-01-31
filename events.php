@@ -194,7 +194,7 @@ include("header.php");
       <br>
       <div id="header">
         <ul id="menu">
-          <li><a href="/"><span>Current Events</span></a></li>
+          <li><a href=""><span>Current Events</span></a></li>
         </ul>
       </div>
       <br>

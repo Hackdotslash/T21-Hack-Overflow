@@ -35,7 +35,7 @@ set_error_handler("var_dump");
     </script> -->
   <!--End of Tawk.to Script-->
 
-  <script src="https://account.snatchbot.me/script.js"></script>
+  <!-- <script src="https://account.snatchbot.me/script.js"></script> -->
   <script>
-    window.sntchChat.Init(88334)
+    // window.sntchChat.Init(88334)
   </script>
